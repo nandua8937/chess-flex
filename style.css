@@ -7,8 +7,7 @@
     display:flex;
 }
 body{
-    margin-top: 4%;
-    margin-left: 22%;
+    margin:4% 0 0 22%;
 }
 .black{
     float: left;
@@ -23,9 +22,7 @@ body{
     background-color: #f7d79e;
 }
 .chessboard{
-   /* padding:30px 30px;*/
-    margin-left:100px;
-    margin-top:2px;
+    margin:2px 0 0 100px;
     border:20px solid #69480f;
     width:37%;
 }
